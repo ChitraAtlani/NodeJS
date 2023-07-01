@@ -1,0 +1,20 @@
+{
+    "name": "nodejs",
+    "version": "1.0.0",
+    "description": "learning nodejs",
+    "main": "server.js",
+    "scripts": {
+        "test": "node test",
+        "build": "npm install",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "(https://github.com/ChitraAtlani/NodeJS.git)"
+    },
+    "author": "Chits",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
